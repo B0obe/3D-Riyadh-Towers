@@ -1,6 +1,5 @@
 # 3D Riyadh Towers Project
 
-![Project Banner](screenshots/kingdoom-tower.png)
 
 ## About
 A collection of meticulously crafted 3D models showcasing Riyadh's most iconic architectural landmarks. Each tower has been modeled with precise attention to detail, capturing the unique architectural elements that make these structures famous worldwide.
